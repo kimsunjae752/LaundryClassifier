@@ -197,6 +197,10 @@ HomeScreen > CameraScreen > ModelDebugScreen > ResultScreen
 
 ---
 
+## 총괄 프로듀서
+
+- **김선재**
+
 ## 개발자
 
 - **서동호**
