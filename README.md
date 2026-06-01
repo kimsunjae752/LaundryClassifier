@@ -199,9 +199,9 @@ HomeScreen > CameraScreen > ModelDebugScreen > ResultScreen
 
 ## 개발자
 
-- 앱 개발자 : **서동호**
-- 모델 개발자 : **이동수**
-- Ui 설계 담당자 : **우시헌**
+- 앱 개발자 : **김선재**
+- 모델 개발자 : **김선재**
+- Ui 설계 담당자 : **김선재**
 
 ---
 
